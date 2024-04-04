@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIEL\\Documents\\workspace\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CECD726-D5A7-43AF-871F-C0C1A8E61C4A}|RestWithASPNET\\RestWithASPNET.csproj|c:\\users\\gabriel\\documents\\workspace\\restwithasp-net5\\restwithasp-net5\\restwithaspnet\\restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CECD726-D5A7-43AF-871F-C0C1A8E61C4A}|RestWithASPNET\\RestWithASPNET.csproj|solutionrelative:restwithaspnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Documents\\workspace\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET\\Program.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Documents\\workspace\\RestWithASP-NET5\\RestWithASP-NET5\\RestWithASPNET\\RestWithASPNET\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:09:02.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
